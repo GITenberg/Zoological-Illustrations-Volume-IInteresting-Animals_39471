@@ -1,0 +1,31 @@
+_repo: Zoological-Illustrations-Volume-IInteresting-Animals_39471
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swainson, William
+    alias: Swainson, W. (William)
+    birthdate: 1789
+    deathdate: 1855
+    gutenberg_agent_id: '40036'
+    url: http://www.gutenberg.org/2009/agents/40036
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild
+- Animal
+gutenberg_issued: '2012-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Pictorial work'
+- !lcc 'QL'
+title: "Zoological Illustrations, Volume 1\r\nor, Original Figures and Descriptions\
+  \ of New, Rare, or Interesting Animals"
+url: http://www.gutenberg.org/ebooks/39471
